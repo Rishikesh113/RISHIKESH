@@ -9,6 +9,6 @@ sources:
      - name: customers_data
      - name: orders
      - name: payments
-     - name: rishi_hyd
+     - name: RISHI_HYD
 
       
