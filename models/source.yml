@@ -1,0 +1,14 @@
+version: 2
+sources:
+  - name: datafeed_shared_schema 
+    database: "{{('DBT')}}"
+    schema: SOURCE
+   
+  
+    tables:
+     - name: customers_data
+     - name: orders
+     - name: payments
+     - name: Rishi_hyd
+
+      
